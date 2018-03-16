@@ -1,0 +1,23 @@
+{
+  "basics":{
+    "objective":"to seek challenging postion as an engineer in a progessive organization which give me scope to apply my knowledge and skill towards the success and growth
+      of the organization"
+},
+"education":[
+{
+  "degree":"B.Tech(computer science engineering)",
+  "college":"KLM college for womens",
+  "data":["2014-18","68%"]
+},
+{
+  "degree":"state board of technical education(intermediate)",
+  "college":"narayana junior college",
+  "data":["2012-14","84%"]
+},
+{
+  "degree":"SSC",
+  "college":"rishi high school",
+  "data":["2010-2012","88%"]
+}
+]
+}  

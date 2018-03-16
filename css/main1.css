@@ -1,0 +1,40 @@
+.flex{
+     display:flex;
+     border:solid;
+     flex-direction:column;
+     width:70%;
+     vertical-align: middle;
+     margin-left:auto;
+     margin-right:auto;
+   }
+   h1{
+     color:red;
+     text-align:center;
+  }
+  h2{
+    display:block;
+    background-color:#ddd;
+  }
+  h3{
+    display:block;
+    background-color:#ddd;
+  }
+  h4{
+    display:block;
+    background-color:#ddd;
+  }
+  h5{
+    display:block;
+    background-color:#ddd;
+  }
+  h6{
+    display:block;
+    background-color:#ddd;
+  }
+table,tr,th,td{
+  border:solid;
+  text-align:center;
+}
+h2,h3,h4,h5,h6{
+  font-size:20px
+}
